@@ -1,0 +1,112 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": "73930385"
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": "17806751"
+    },
+    {
+      "id": "d922",
+      "cityName": "Schimberg",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2024-07-09T14:48:33.274Z",
+      "notes": "",
+      "position": {
+        "lat": "51.23440735163461",
+        "lng": "10.195312500000002"
+      }
+    },
+    {
+      "id": "3bdd",
+      "cityName": "Poddebice",
+      "country": "Poland",
+      "emoji": "🇵🇱",
+      "date": "2024-07-09T14:48:37.810Z",
+      "notes": "",
+      "position": {
+        "lat": "51.944264879028765",
+        "lng": "18.8525390625"
+      }
+    },
+    {
+      "id": "6f3a",
+      "cityName": "Kharkiv",
+      "country": "Ukraine",
+      "emoji": "🇺🇦",
+      "date": "2024-07-09T14:49:00.826Z",
+      "notes": "",
+      "position": {
+        "lat": "49.92293545449574",
+        "lng": "36.47460937500001"
+      }
+    },
+    {
+      "id": "d50c",
+      "cityName": "Zaragoza",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-07-09T15:19:08.322Z",
+      "notes": "",
+      "position": {
+        "lat": "41.672911819602085",
+        "lng": "-0.9008789062500001"
+      }
+    },
+    {
+      "id": "eefb",
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2024-07-09T15:24:51.982Z",
+      "notes": "wow",
+      "position": {
+        "lat": "52.51622086393074",
+        "lng": "13.425292968750002"
+      }
+    },
+    {
+      "id": "2b70",
+      "cityName": "Prague",
+      "country": "Czechia",
+      "emoji": "🇨🇿",
+      "date": "2024-07-09T15:26:00.364Z",
+      "notes": "",
+      "position": {
+        "lat": "50.05008477838256",
+        "lng": "14.567871093750002"
+      }
+    },
+    {
+      "id": "c203",
+      "cityName": "Ouadane",
+      "country": "Mauritania",
+      "emoji": "🇲🇷",
+      "date": "2024-07-09T17:17:29.982Z",
+      "notes": "",
+      "position": {
+        "lat": "21.207458730482653",
+        "lng": "-9.492187500000002"
+      }
+    }
+  ]
+}
